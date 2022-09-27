@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;UploadFile/src/main/webapp/WEB-INF/resources/notificationimage&apos; to &apos;notification_image&apos;" description="Rename resource &apos;notificationimage&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/resources/notificationimage" name="notification_image" stamp="1648792609666" updateReferences="true"/>
+</session>

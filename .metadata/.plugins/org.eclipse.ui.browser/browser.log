@@ -1,0 +1,260 @@
+
+Feb 18, 2022 16:03:09.387 NEW SESSION
+Feb 18, 2022 16:03:09.387 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:09.619 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:09.665 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:09.860 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:13.76 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:13.84 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:13.115 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 16:03:13.153 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:13:19.26 
+Feb 18, 2022 17:13:19.50 ###!!! [Parent][PBackgroundParent] Error: Send(msgname=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+Feb 18, 2022 17:13:19.50 
+
+Feb 18, 2022 17:27:43.987 NEW SESSION
+Feb 18, 2022 17:27:43.987 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:44.87 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:44.131 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:44.214 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:46.53 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:46.61 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:46.89 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 17:27:46.126 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:08:07.125 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:30.270 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:30.464 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:30.510 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:30.648 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:33.776 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:33.783 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:33.812 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:34:33.851 ATTENTION: default value of option mesa_glthread overridden by environment.
+Feb 18, 2022 18:39:56.958 
+Feb 18, 2022 18:39:56.991 ###!!! [Parent][PBackgroundParent] Error: Send(msgname=PIdleScheduler::Reply_RequestGC) Channel error: cannot send/recv
+Feb 18, 2022 18:39:56.991 
+
+Feb 18, 2022 18:51:31.314 NEW SESSION
+Feb 18, 2022 18:51:31.314 Opening in existing browser session.
+Feb 18, 2022 18:51:33.153 [72777:72777:0100/000000.152667:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 18, 2022 19:05:18.218 Opening in existing browser session.
+Feb 18, 2022 19:05:18.753 [73879:73879:0100/000000.753631:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 18, 2022 20:02:58.04 Opening in existing browser session.
+Feb 18, 2022 20:03:01.299 [77462:77462:0100/000000.299306:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 18, 2022 20:07:34.424 Opening in existing browser session.
+Feb 18, 2022 20:07:36.440 [77833:77833:0100/000000.439941:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 18, 2022 20:20:03.659 [78620:78620:0218/202003.638213:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 18, 2022 20:20:06.710 [78578:78617:0218/202006.709964:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 20:20:06.710 [78578:78617:0218/202006.710036:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 18, 2022 20:32:22.794 [78630:4:0218/203222.793652:ERROR:node_controller.cc(585)] Trying to re-add dropped peer CB2D04F67F9E703.28F00579D6E34A22
+Feb 18, 2022 20:32:22.794 [78620:78694:0218/203222.793774:ERROR:node_controller.cc(585)] Trying to re-add dropped peer CB2D04F67F9E703.28F00579D6E34A22
+
+Feb 19, 2022 10:42:59.568 NEW SESSION
+Feb 19, 2022 10:42:59.568 Opening in existing browser session.
+Feb 19, 2022 10:43:00.273 [7369:7369:0100/000000.272633:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 10:50:33.250 Opening in existing browser session.
+Feb 19, 2022 10:50:33.346 [7901:7901:0100/000000.346624:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 11:52:21.948 [11503:11503:0219/115221.909824:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 11:52:22.120 Opening in existing browser session.
+
+Feb 19, 2022 12:08:14.886 NEW SESSION
+Feb 19, 2022 12:08:14.886 Opening in existing browser session.
+Feb 19, 2022 12:08:15.379 [13122:13122:0100/000000.378735:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 12:21:07.748 [17641:17641:0219/122107.747637:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 12:21:07.750 Opening in existing browser session.
+Feb 19, 2022 12:29:39.728 Opening in existing browser session.
+Feb 19, 2022 12:29:39.755 [18095:18095:0100/000000.755085:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 12:43:39.890 Opening in existing browser session.
+Feb 19, 2022 12:43:39.990 [19018:19018:0100/000000.989991:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 12:52:32.503 [19596:19596:0219/125232.503696:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 12:52:32.616 Opening in existing browser session.
+
+Feb 19, 2022 13:21:44.266 NEW SESSION
+Feb 19, 2022 13:21:44.266 [21676:21676:0219/132144.265262:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 13:21:44.466 Opening in existing browser session.
+Feb 19, 2022 13:39:34.308 Opening in existing browser session.
+Feb 19, 2022 13:39:35.456 [23236:23236:0100/000000.456403:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 14:40:33.960 Opening in existing browser session.
+Feb 19, 2022 14:40:33.999 [24996:24996:0100/000000.999077:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 15:25:14.307 Opening in existing browser session.
+Feb 19, 2022 15:25:14.797 [27133:27133:0100/000000.796831:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 15:56:42.281 Opening in existing browser session.
+Feb 19, 2022 15:56:42.438 [28735:28735:0100/000000.438392:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 16:40:58.475 Opening in existing browser session.
+Feb 19, 2022 16:40:58.518 [30863:30863:0100/000000.518282:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+Feb 19, 2022 16:54:40.352 NEW SESSION
+Feb 19, 2022 16:54:40.352 Opening in existing browser session.
+Feb 19, 2022 16:54:40.442 [32022:32022:0100/000000.442541:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 16:59:08.422 Opening in existing browser session.
+Feb 19, 2022 16:59:08.546 [32476:32476:0100/000000.546375:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 17:10:21.882 Opening in existing browser session.
+Feb 19, 2022 17:10:22.87 [33315:33315:0100/000000.087449:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 17:22:49.751 Opening in existing browser session.
+Feb 19, 2022 17:22:49.852 [33993:33993:0100/000000.852633:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 17:28:14.831 Opening in existing browser session.
+Feb 19, 2022 17:28:14.933 [34513:34513:0100/000000.933185:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 18:16:17.706 Opening in existing browser session.
+Feb 19, 2022 18:16:18.954 [37109:37109:0100/000000.954223:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 18:26:09.577 [37848:37848:0219/182609.523200:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 18:26:09.578 Opening in existing browser session.
+Feb 19, 2022 18:33:58.108 Opening in existing browser session.
+Feb 19, 2022 18:33:58.157 [38577:38577:0100/000000.157499:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 18:44:50.490 [39490:39490:0219/184450.490004:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 18:44:50.496 Opening in existing browser session.
+Feb 19, 2022 18:54:17.483 Opening in existing browser session.
+Feb 19, 2022 18:54:17.675 [39944:39944:0100/000000.674987:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 19:12:18.857 Opening in existing browser session.
+Feb 19, 2022 19:12:18.883 [40688:40688:0100/000000.882765:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 19:24:31.610 Opening in existing browser session.
+Feb 19, 2022 19:24:32.94 [43135:43135:0100/000000.094649:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 19:32:08.894 Opening in existing browser session.
+Feb 19, 2022 19:32:09.04 [43593:43593:0100/000000.004274:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 19, 2022 19:35:29.296 Opening in existing browser session.
+Feb 19, 2022 19:35:29.398 [43886:43886:0100/000000.397972:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+Feb 21, 2022 10:35:40.647 NEW SESSION
+Feb 21, 2022 10:35:40.647 [6432:6432:0221/103540.646113:ERROR:broker_posix.cc(43)] Invalid node channel message
+Feb 21, 2022 10:35:40.954 Opening in existing browser session.
+Feb 21, 2022 10:35:41.108 [6431:6431:0100/000000.108413:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 10:35:41.109 [6431:6431:0100/000000.108884:ERROR:broker_posix.cc(43)] Invalid node channel message
+Feb 21, 2022 10:56:19.910 [8006:8006:0221/105619.909924:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 10:56:20.14 Opening in existing browser session.
+Feb 21, 2022 11:02:38.368 Opening in existing browser session.
+Feb 21, 2022 11:02:39.146 [9290:9290:0100/000000.146410:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 11:08:42.857 [10034:10034:0221/110842.856738:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 11:08:42.900 Opening in existing browser session.
+Feb 21, 2022 11:32:42.281 Opening in existing browser session.
+Feb 21, 2022 11:32:44.179 [13609:13609:0100/000000.178992:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:15:30.581 Opening in existing browser session.
+Feb 21, 2022 12:15:30.888 [17619:17619:0100/000000.888055:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:20:03.140 [18115:18115:0221/122003.140390:ERROR:broker_posix.cc(43)] Invalid node channel message
+Feb 21, 2022 12:20:03.262 Opening in existing browser session.
+Feb 21, 2022 12:20:03.350 [18112:18112:0100/000000.350268:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:20:03.351 [18112:18112:0100/000000.350842:ERROR:broker_posix.cc(43)] Invalid node channel message
+Feb 21, 2022 12:25:48.20 Opening in existing browser session.
+Feb 21, 2022 12:25:48.119 [18770:18770:0100/000000.119369:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:27:54.128 [19095:19095:0221/122754.128155:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:27:54.134 Opening in existing browser session.
+Feb 21, 2022 12:28:44.744 Opening in existing browser session.
+Feb 21, 2022 12:28:44.877 [19326:19326:0100/000000.877462:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:33:22.899 Opening in existing browser session.
+Feb 21, 2022 12:33:23.228 [19805:19805:0100/000000.228443:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:38:18.893 Opening in existing browser session.
+Feb 21, 2022 12:38:19.07 [20298:20298:0100/000000.007029:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:43:13.271 [20936:20936:0221/124313.271768:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:43:13.519 Opening in existing browser session.
+
+Feb 21, 2022 12:54:32.995 NEW SESSION
+Feb 21, 2022 12:54:32.995 [22218:22218:0221/125432.994401:ERROR:broker_posix.cc(43)] Invalid node channel message
+Feb 21, 2022 12:54:33.836 Opening in existing browser session.
+Feb 21, 2022 12:54:34.419 [22216:22216:0100/000000.419402:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:58:25.219 [22644:22644:0221/125825.219023:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 12:58:25.316 Opening in existing browser session.
+Feb 21, 2022 13:04:31.72 [23128:23128:0221/130431.071757:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:04:31.98 Opening in existing browser session.
+Feb 21, 2022 13:10:01.394 Opening in existing browser session.
+Feb 21, 2022 13:10:01.414 [23748:23748:0100/000000.403348:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:12:03.596 Opening in existing browser session.
+Feb 21, 2022 13:12:03.714 [23962:23962:0100/000000.714847:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:14:56.858 Opening in existing browser session.
+Feb 21, 2022 13:14:56.984 [24284:24284:0100/000000.984315:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:18:41.283 Opening in existing browser session.
+Feb 21, 2022 13:18:41.423 [24970:24970:0100/000000.423100:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:27:38.792 Opening in existing browser session.
+Feb 21, 2022 13:27:39.42 [25414:25414:0100/000000.042372:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:35:45.451 [26125:26125:0221/133545.451748:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 13:35:47.722 [26084:26144:0221/133547.722330:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 13:35:47.722 [26084:26144:0221/133547.722353:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+
+Feb 21, 2022 14:45:38.225 NEW SESSION
+Feb 21, 2022 14:45:38.225 [27719:27719:0221/144538.224595:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 14:45:41.485 [27679:27703:0221/144541.485144:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 14:45:41.485 [27679:27703:0221/144541.485167:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 21, 2022 14:48:37.783 [27719:27754:0221/144837.783717:ERROR:node_controller.cc(585)] Trying to re-add dropped peer D01AAD3C15202D0.121A288D5B2C36E6
+Feb 21, 2022 14:48:37.792 [27719:27754:0221/144837.791850:ERROR:node_controller.cc(585)] Trying to re-add dropped peer B936388422490F95.C6F0C0495926C401
+Feb 21, 2022 14:48:43.669 [27679:28054:0221/144843.668830:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Feb 21, 2022 14:48:43.669 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Feb 21, 2022 14:48:43.669 ERROR: Failed parsing Certificate
+Feb 21, 2022 14:48:43.670 
+Feb 21, 2022 14:48:43.728 [27679:28054:0221/144843.728051:ERROR:cert_verify_proc_builtin.cc(681)] CertVerifyProcBuiltin for app.pushbrothers.com failed:
+Feb 21, 2022 14:48:43.728 ----- Certificate i=0 (CN=app.pushbrothers.com) -----
+Feb 21, 2022 14:48:43.728 ERROR: Time is after notAfter
+Feb 21, 2022 14:48:43.728 
+Feb 21, 2022 14:48:43.729 ----- Certificate i=1 (CN=R3,O=Let's Encrypt,C=US) -----
+Feb 21, 2022 14:48:43.729 ERROR: Time is after notAfter
+Feb 21, 2022 14:48:43.729 
+Feb 21, 2022 14:48:43.729 
+Feb 21, 2022 14:48:43.732 [27720:27729:0221/144843.732073:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -201
+Feb 21, 2022 14:48:43.939 [27720:27729:0221/144843.939382:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -201
+Feb 21, 2022 14:48:50.599 [27719:27754:0221/144850.598015:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 9B3B4D35C937D527.7AC78ACE21CB514A
+Feb 21, 2022 14:48:50.610 Fontconfig error: Cannot load default config file: No such file: (null)
+Feb 21, 2022 14:50:07.650 [27719:27754:0221/145007.649937:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 75307AA644CE748F.E5FF63D5BDCF0938
+Feb 21, 2022 14:50:07.674 [27722:4:0221/145007.650107:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 75307AA644CE748F.E5FF63D5BDCF0938
+Feb 21, 2022 14:58:29.594 Opening in existing browser session.
+Feb 21, 2022 14:58:29.610 [29543:29543:0100/000000.601669:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:05:35.940 Opening in existing browser session.
+Feb 21, 2022 15:05:36.37 [30228:30228:0100/000000.036832:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:06:44.213 [27719:27754:0221/150644.212290:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 4EE7752FB8D9291F.26AA2B9F2D67B588
+Feb 21, 2022 15:06:44.651 Fontconfig error: Cannot load default config file: No such file: (null)
+Feb 21, 2022 15:09:45.222 [27722:4:0221/150945.221234:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 41895E2FA8D4F453.5EB6BA2CB7188A6E
+Feb 21, 2022 15:09:45.222 [27720:27729:0221/150945.222360:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 41895E2FA8D4F453.5EB6BA2CB7188A6E
+Feb 21, 2022 15:16:53.21 Opening in existing browser session.
+Feb 21, 2022 15:16:53.166 [31314:31314:0100/000000.164686:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:20:36.558 [27719:27754:0221/152036.558347:ERROR:node_controller.cc(585)] Trying to re-add dropped peer E0F5D06054B812E0.BEA3D259E86A7C09
+Feb 21, 2022 15:20:36.570 [27719:27754:0221/152036.570313:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 61120727D0CB2B1A.CA12B534CD38E5CF
+Feb 21, 2022 15:21:43.497 Opening in existing browser session.
+Feb 21, 2022 15:21:43.604 [31918:31918:0100/000000.604489:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:30:37.277 [27720:27729:0221/153037.277425:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 207FDD72EE950648.A408D0EDF13E1104
+Feb 21, 2022 15:30:37.279 [27722:4:0221/153037.278598:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 207FDD72EE950648.A408D0EDF13E1104
+Feb 21, 2022 15:31:02.806 [27719:27754:0221/153102.806359:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 5C80EDA048127EE6.38BCEB1688BD77B5
+
+Feb 21, 2022 15:40:26.394 NEW SESSION
+Feb 21, 2022 15:40:26.394 Opening in existing browser session.
+Feb 21, 2022 15:40:26.436 [33274:33274:0100/000000.435976:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:40:56.453 [33407:33407:0221/154056.453230:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:40:56.511 Opening in existing browser session.
+
+Feb 21, 2022 15:43:08.265 NEW SESSION
+Feb 21, 2022 15:43:08.265 [33879:33879:0221/154308.264599:ERROR:broker_posix.cc(43)] Invalid node channel message
+Feb 21, 2022 15:43:08.327 Opening in existing browser session.
+Feb 21, 2022 15:43:08.502 [33878:33878:0100/000000.501890:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 15:43:08.502 [33878:33878:0100/000000.502347:ERROR:broker_posix.cc(43)] Invalid node channel message
+
+Feb 21, 2022 15:56:38.201 NEW SESSION
+Feb 21, 2022 15:56:38.202 Opening in existing browser session.
+Feb 21, 2022 15:56:38.302 [5603:5603:0100/000000.302660:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:14:51.902 Opening in existing browser session.
+Feb 21, 2022 16:14:52.847 [8274:8274:0100/000000.847614:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:18:46.234 Opening in existing browser session.
+Feb 21, 2022 16:18:46.339 [8560:8560:0100/000000.339783:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:19:53.286 Opening in existing browser session.
+Feb 21, 2022 16:19:53.392 [8751:8751:0100/000000.391990:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:26:45.431 Opening in existing browser session.
+Feb 21, 2022 16:26:45.609 [9133:9133:0100/000000.609534:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:28:03.911 Opening in existing browser session.
+Feb 21, 2022 16:28:03.942 [9367:9367:0100/000000.941839:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:40:23.830 Opening in existing browser session.
+Feb 21, 2022 16:40:23.903 [10233:10233:0100/000000.903388:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:47:05.21 [10909:10909:0221/164705.020175:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:47:05.34 Opening in existing browser session.
+Feb 21, 2022 16:52:35.932 Opening in existing browser session.
+Feb 21, 2022 16:52:35.946 [11456:11456:0100/000000.946312:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 16:57:06.504 Opening in existing browser session.
+Feb 21, 2022 16:57:06.569 [11838:11838:0100/000000.568896:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 17:27:17.236 Opening in existing browser session.
+Feb 21, 2022 17:27:17.331 [13486:13486:0100/000000.331498:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 17:31:12.581 Opening in existing browser session.
+Feb 21, 2022 17:31:12.655 [13850:13850:0100/000000.654642:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Feb 21, 2022 17:34:05.672 Opening in existing browser session.
+Feb 21, 2022 17:34:05.752 [14309:14309:0100/000000.752757:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+Mar 23, 2022 15:31:47.421 NEW SESSION
+Mar 23, 2022 15:31:47.421 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:47.558 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:47.607 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:47.776 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:50.362 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:50.371 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:50.400 ATTENTION: default value of option mesa_glthread overridden by environment.
+Mar 23, 2022 15:31:50.436 ATTENTION: default value of option mesa_glthread overridden by environment.

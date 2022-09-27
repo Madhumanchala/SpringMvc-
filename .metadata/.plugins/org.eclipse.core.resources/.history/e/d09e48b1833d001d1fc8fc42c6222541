@@ -1,0 +1,36 @@
+package com.demo;
+
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+import javax.servlet.http.HttpServlet;
+
+public class RiderUp extends  HttpServlet {
+	
+	
+    long fiveMinutes = 1000 * 60 * 5; // 1000 millis * 60 secs * 5 mins
+    Timer t = null;
+
+     if ( request.getParameter( "start" ) != null && t == null ){
+        t = new Timer( true );// true = non Daemon thread
+        // schedule a new MyTimer object to run immediately, and every five minutes thereafter
+        t.schedule( new MyTimer(), new java.util.Date(), fiveMinutes );
+    }
+    if ( request.getParameter( "stop" ) != null && t != null ) {
+        // stop the Timer; any currently running tasks will finish, though.
+        t.cancel();
+    }
+
+	
+	
+	
+	class MyTimer extends TimerTask{
+	    public void run(){
+
+	    	System.out.println("SCHEDULER RUN HERE---");
+	    	System.out.println(new Date());
+	    }
+	}
+}
+}

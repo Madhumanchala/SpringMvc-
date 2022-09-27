@@ -1,0 +1,14 @@
+package com.demo;
+
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class CronjobExample {
+	
+	public static void main(String[] args) {
+		
+		Timer timer=new Timer();
+		TimerTask task =new MyTask();
+	}
+
+}

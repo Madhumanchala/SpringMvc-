@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\dell\Downloads\Madhu Practice"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/SpringMvc"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/FashionBakend"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/FashionBakend/src/main/java/eCommerce/DBConfig"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/Practice Java"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/test"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/SpringMvcFileUp"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/SpringMvcWithData"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/aPracties/src/aPracties/prime_no.java"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/Practice Java/src/abstraction/Car.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.demo"/>
+			<item value="com.test"/>
+			<item value="com.demo.springfileupload"/>
+		</list>
+		<list key="groupId">
+			<item value="com.demo"/>
+			<item value="com.test"/>
+		</list>
+		<list key="artifactId">
+			<item value="ShopingWebsite"/>
+			<item value="Hibernet"/>
+			<item value="Hibernetdemo"/>
+			<item value="test2"/>
+			<item value="Admin"/>
+			<item value="Test"/>
+			<item value="FashinFront"/>
+			<item value="FashionFrontend"/>
+			<item value="FashionBackend1"/>
+			<item value="SpringCrud"/>
+			<item value="springfileupload"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\dell\Downloads\MVCUsingSpringHibernate-master"/>
+			<item value="/home/comunus-user33/Downloads/SpringMVC"/>
+			<item value="/home/comunus-user33/Downloads/SpringScheduledExample"/>
+			<item value="/home/comunus-user33/Music/Maven_project-master/Test1"/>
+			<item value="/home/comunus-user33/Music/Maven_project-master/Test"/>
+			<item value="/home/comunus-user33/Music/Maven_project-master"/>
+			<item value="/home/comunus-user33/Downloads/SpringMvcHibernateFileUpload (1)"/>
+			<item value="/home/comunus-user33/Downloads/Spring3HibernateApp"/>
+			<item value="/home/comunus-user33/Downloads/SpringMvcHibernateFileUpload"/>
+			<item value="/home/comunus-user33/Downloads/demo"/>
+			<item value="/home/comunus-user33/Downloads/todo-management-spring-boot-master"/>
+			<item value="/home/comunus-user33/Desktop/Madhu Practice/SpringMvc"/>
+			<item value="/home/comunus-user33/Downloads/springrest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="e-comm"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
